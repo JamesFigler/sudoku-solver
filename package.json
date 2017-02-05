@@ -12,6 +12,7 @@
   },
   "private": true,
   "scripts": {
+    "postinstall": "ionic prepare",
     "clean": "ionic-app-scripts clean",
     "build": "ionic-app-scripts build",
     "ionic:build": "ionic-app-scripts build",
